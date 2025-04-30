@@ -1,4 +1,4 @@
-# CS50x-2020
+# CS50x-2021
 
 ![CS50x Certificate](CS50xCertificate.png)
 
